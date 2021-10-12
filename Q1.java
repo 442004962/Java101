@@ -1,4 +1,4 @@
-    Scanner myObj = new Scanner(System.in);  // Create a Scanner object
-    System.out.println("day");
-String day5 = day6();  // Read user input
-    System.out.println("day4: " + day3);  // Output user inpu
+int var1;
+system.out.print("Enter a Number:");
+var1 = myScaner.nextInt();
+var1 4=2
