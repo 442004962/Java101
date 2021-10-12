@@ -1,4 +1,4 @@
     Scanner myObj = new Scanner(System.in);  // Create a Scanner object
-    System.out.println("Enter username");
-String userName = myObj.nextLine();  // Read user input
-    System.out.println("Username is: " + userName);  // Output user inpu
+    System.out.println("day");
+String day5 = day6();  // Read user input
+    System.out.println("day4: " + day3);  // Output user inpu
