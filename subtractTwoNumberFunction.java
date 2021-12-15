@@ -1,4 +1,4 @@
-public class Main {
+public class subtractTwoNumberFunction.java {
     static int add(int x , int y) {
         return x - y;
     }
