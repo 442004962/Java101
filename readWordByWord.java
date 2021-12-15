@@ -1,4 +1,4 @@
-public class Main {
+public class readWordByWord.java {
         public static void main(String[] args) {
                 String xxx = "Abdulmajeed\nalshrhri";
 
