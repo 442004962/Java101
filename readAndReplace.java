@@ -1,4 +1,4 @@
-public class Main{
+public class readAndReplace.java {
 public static void main(String[] args) {
      String name = "abdal majeed ";
      for (int x =0;  x<=8 ; ++x){
