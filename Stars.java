@@ -1,4 +1,4 @@
-public class Ex {
+public class Stars {
 public static void main(String[] args) {
         int a = 0;
         while(a <= 5){
