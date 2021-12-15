@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class powFunction.java {
     static int add(int x) {
         return x*x;
     }
