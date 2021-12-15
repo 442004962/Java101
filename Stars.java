@@ -1,4 +1,4 @@
-public class Main {
+public class Stars.java {
 public static void main(String[] args) {
         int a = 0;
         while(a <= 5){
